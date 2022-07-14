@@ -14,3 +14,7 @@
  ## Criação de Branches
     * Fazer updates
     * Fazer testes
+    
+ ## GitHub Pages
+    * Como utilizar
+    * Hospedar pequeno site
